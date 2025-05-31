@@ -2,8 +2,8 @@
 UserRegistration1 – Módulo de Registro de Usuarios
 ==================================================
 
-Autor: [Tu nombre completo]
-Ficha: [Número de ficha SENA]
+Autor: Juan Angel Rangel Cediel
+Ficha: 
 
 Descripción:
 ------------
